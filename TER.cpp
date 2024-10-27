@@ -1,6 +1,6 @@
 /** 
  * @file TER.cpp
- * @brief Implementación de un juegio Tres en Raya sin interfaz gráfica de uno o dos jugadores.
+ * @brief Implementación de un juego Tres en Raya sin interfaz gráfica de uno o dos jugadores.
  * 
  * Este programa permite al jugador jugar al Tres en Raya de manera indicidual o con otro jugador.
  * 
