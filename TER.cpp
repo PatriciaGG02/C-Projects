@@ -28,6 +28,14 @@ char computer ='P';
 bool running = true;
 
 
+
+/**
+ * @brief Funcionamiento del juego Tres en Raya
+ * 
+ * Consiste en el funcionamiento del juego Tres en Raya a partir de un if,
+ * donde se puede elegir un solo jugador o dos
+ * 
+ */
 int main(){
 
 cout<<"Bienvenido al Tres en raya!\n";
